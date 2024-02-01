@@ -1,0 +1,32 @@
+name: booking_card_layout
+description: "This package is designed for taxivaxi. This package contains layouts which are used in all taxivaxi apps. This package contains layouts for taxi,hotel,bus,flight and train"
+version: 0.0.7
+homepage: "https://taxivaxi.com"
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl:
+  google_fonts:
+  font_awesome_flutter:
+  flutter_phone_direct_caller:
+
+platforms:
+  android:
+  ios:
+  macos:
+  web:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
